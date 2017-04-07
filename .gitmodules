@@ -1,0 +1,3 @@
+[submodule "SuperTankBlitzGUI"]
+	path = SuperTankBlitzGUI
+	url = git@github.com:haoyifan/SuperTankBlitzGUI.git
